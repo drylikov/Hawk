@@ -43,4 +43,3 @@ no accounts to set up. It just works.
 ## Contributing
 
 Contributions welcome! Fork this repo and submit a pull request (or just open up a ticket and I'll see what I can do).
-
